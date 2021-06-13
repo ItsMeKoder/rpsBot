@@ -8,7 +8,7 @@ from os import system
 def setup():
     system("clear")
     if verbose:
-        print(colored("[Start] Initializing Variables....","yellow"))
+        print(colored("[Start] Initialising Variables....","yellow"))
     global round
     round = int(input(colored('Number of rounds : ',"cyan")))
 
@@ -24,7 +24,7 @@ def setup():
     global player
     global computer
     if verbose:
-        print(colored("[Done] Initializing Variables...","yellow"))
+        print(colored("[Done] Initialising Variables...","yellow"))
         time.sleep(1)
         system("clear")
 
