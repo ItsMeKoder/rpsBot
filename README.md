@@ -1,4 +1,4 @@
-# rpsBot
+# Rock Paper Scissor Bot
 A Rock Paper Scissor Bot written in Python.
 
 # To run
